@@ -1,0 +1,5 @@
+﻿  chapter6_20.cpp
+D:\jechulcode\hjmc++\hjmc++Chapter7\hjmc++Chapter7\Chapter6_20\chapter6_20.cpp(25,13): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+D:\jechulcode\hjmc++\hjmc++Chapter7\hjmc++Chapter7\Chapter6_20\chapter6_20.cpp(27,41): error C2601: 'printLength': 지역 함수 정의가 잘못되었습니다.
+D:\jechulcode\hjmc++\hjmc++Chapter7\hjmc++Chapter7\Chapter6_20\chapter6_20.cpp(6): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+D:\jechulcode\hjmc++\hjmc++Chapter7\hjmc++Chapter7\Chapter6_20\chapter6_20.cpp(27,43): error C2059: 구문 오류: '.'
