@@ -4,7 +4,7 @@
 using namespace std;
 
 
-class Friend3
+class Friend
 {
 public: // access specifier 접근 지정자 (public, private, protected)
 	string m_name;
