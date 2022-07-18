@@ -1,0 +1,6 @@
+﻿  소스.cpp
+D:\jechulcode\Learning-cpp\Chapter09\Ch09_11\소스.cpp(1,1): warning C4828: 파일에 0x90d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+D:\jechulcode\Learning-cpp\Chapter09\Ch09_11\소스.cpp(24,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\jechulcode\Learning-cpp\Chapter09\Ch09_11\소스.cpp(41,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\jechulcode\Learning-cpp\Chapter09\Ch09_11\소스.cpp(72,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+LINK : fatal error LNK1168: D:\jechulcode\Learning-cpp\Chapter09\x64\Debug\Ch09_11.exe을(를) 쓰기용으로 열 수 없습니다.
