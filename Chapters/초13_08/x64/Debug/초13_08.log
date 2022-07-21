@@ -1,0 +1,7 @@
+﻿  소스.cpp
+D:\jechulcode\Learning-cpp\Chapters\초13_08\소스.cpp(35,32): warning C4305: '인수': 'double'에서 'const TT'(으)로 잘립니다.
+          with
+          [
+              TT=float
+          ]
+  초13_08.vcxproj -> D:\jechulcode\Learning-cpp\Chapters\x64\Debug\Ch13_08.exe
